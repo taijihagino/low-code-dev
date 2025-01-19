@@ -21,7 +21,7 @@ GitHubにログインし、[こちらのリポジトリ](https://github.com/taij
 
 <img width="1103" alt="Screenshot 2025-01-19 at 14 16 54" src="https://github.com/user-attachments/assets/614a0dc9-486b-42f9-80a5-a99d633b68ed" />
 
-Node-REDが別ダブで起動します。プロジェクトを作成するか、既存リポジトリからプロジェクトを開くかなど聞かれますが、ここでは「Node right now」をクリックして次に進みます。
+Node-REDが別ダブで起動します。プロジェクトを作成するか、既存リポジトリからプロジェクトを開くかなど聞かれますが、ここでは「Not right now」をクリックして次に進みます。
 
 <img width="1447" alt="Screenshot 2025-01-19 at 14 17 31" src="https://github.com/user-attachments/assets/68b5dae2-bbb2-44a8-b9ad-b9916e681501" />
 
