@@ -2,8 +2,6 @@
 
 ここでのNode-RED入門編は、[ワンフットシーバスの田中正吾さん](https://x.com/1ft_seabass)のコンテンツを利用させていただきます。正吾さん、ありがとうございます！
 
-コンテンツは[こちら](https://www.1ft-seabass.jp/memo/2025/01/06/try-dog-api-using-node-red/?fbclid=IwY2xjawH7EvZleHRuA2FlbQIxMQABHWkpJQ_jVYfyqdqOXILOkbRuKweeCe68QWetQ99mnMtJ6pbjGrBJyKhMQg_aem_2ulSJUfQQdU4uyB4CTnDdA)から
-
 ## GitHub Codespaces の準備 〜 Node-REDの起動
 
 GitHubにログインし、[こちらのリポジトリ](https://github.com/taijihagino/node-red-codespaces/tree/main)にアクセスします。
@@ -30,4 +28,9 @@ Node-REDフローエディタが表示されたら成功です。これでNode-R
 
 ## フローの作成
 
+### 基礎的なフローの作成
 公式サイトの[初めてのフロー](https://nodered.jp/docs/tutorials/first-flow)を参考に進めてみましょう。
+
+
+### 外部APIの呼び出し
+コンテンツは[こちら](https://www.1ft-seabass.jp/memo/2025/01/06/try-dog-api-using-node-red/?fbclid=IwY2xjawH7EvZleHRuA2FlbQIxMQABHWkpJQ_jVYfyqdqOXILOkbRuKweeCe68QWetQ99mnMtJ6pbjGrBJyKhMQg_aem_2ulSJUfQQdU4uyB4CTnDdA)から
