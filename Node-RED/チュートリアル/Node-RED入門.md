@@ -2,7 +2,7 @@
 
 ここでのNode-RED入門編は、[ワンフットシーバスの田中正吾さん](https://x.com/1ft_seabass)のコンテンツを利用させていただきます。正吾さん、ありがとうございます！
 
-コンテンツは[こちら]([https://1ft-seabass.github.io/node-red-beginner-handson-05/](https://www.1ft-seabass.jp/memo/2025/01/06/try-dog-api-using-node-red/?fbclid=IwY2xjawH7EvZleHRuA2FlbQIxMQABHWkpJQ_jVYfyqdqOXILOkbRuKweeCe68QWetQ99mnMtJ6pbjGrBJyKhMQg_aem_2ulSJUfQQdU4uyB4CTnDdA))から
+コンテンツは[こちら](https://www.1ft-seabass.jp/memo/2025/01/06/try-dog-api-using-node-red/?fbclid=IwY2xjawH7EvZleHRuA2FlbQIxMQABHWkpJQ_jVYfyqdqOXILOkbRuKweeCe68QWetQ99mnMtJ6pbjGrBJyKhMQg_aem_2ulSJUfQQdU4uyB4CTnDdA)から
 
 ## GitHub Codespaces の準備 〜 Node-REDの起動
 
