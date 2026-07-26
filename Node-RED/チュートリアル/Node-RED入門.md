@@ -1,10 +1,18 @@
 # Node-REDを使ってみよう
 
-ここでのNode-RED入門編は、[ワンフットシーバスの田中正吾さん](https://x.com/1ft_seabass)のコンテンツを利用させていただきます。正吾さん、ありがとうございます！
+ここでのNode-RED入門編は、[ワンフットシーバスの田中正吾さん](https://x.com/1ft_seabass)のコンテンツを利用させていただきます。
+
+また、[日立の横井一仁さん](https://x.com/kazuhitoyokoi)のリポジトリからCodespaceの環境と利用手順をForkさせていただいています。
+
+正吾さん、横井さん、ありがとうございます！
 
 ## GitHub Codespaces の準備 〜 Node-REDの起動
 
-GitHubにログインし、[こちらのリポジトリ](https://github.com/taijihagino/node-red-codespaces/tree/main)にアクセスします。
+GitHubにログインします。
+
+[こちらの設定](https://github.com/settings/codespaces#default-idle-timeout-header)から、Codespaceの連続実行時間設定を任意の時間に設定します。デフォルトだと30分で短いので、240分くらいにしておきましょう。
+
+その後、[こちらのリポジトリ](https://github.com/taijihagino/node-red-codespaces/tree/main)にアクセスします。
 
 <img width="1429" alt="Screenshot 2025-01-19 at 14 23 31" src="https://github.com/user-attachments/assets/98b1441b-0619-4436-80c3-2213fb0abab4" />
 
